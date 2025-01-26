@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ChartViews } from './components';
 
 const App = () => {
