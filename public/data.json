@@ -1,0 +1,67 @@
+{
+  "policy": {
+    "labels": [
+      "Approved - 256",
+      "Rework - 100",
+      "Pending approval - 100",
+      "Pending Action - 20",
+      "Yet to upload - 10"
+    ],
+    "data": [256, 100, 100, 20, 10],
+    "backgroundColor": [
+      "#4bc0c0",
+      "#ff6384",
+      "#ffce56",
+      "#36a2eb",
+      "#9966ff"
+    ]
+  },
+  "evidence": {
+    "labels": [
+      "Approved - 256",
+      "Rework - 100",
+      "Pending approval - 100",
+      "Pending Action - 20",
+      "Yet to upload - 10"
+    ],
+    "data": [256, 100, 100, 20, 10],
+    "backgroundColor": [
+      "#4bc0c0",
+      "#ff6384",
+      "#ffce56",
+      "#36a2eb",
+      "#9966ff"
+    ]
+  },
+  "assessment": {
+    "labels": [
+      "Not Answered - 256",
+      "Yes Answers - 100",
+      "No Answers - 100",
+      "Maybe - 20",
+      "Partial - 10",
+      "Not Applicable - 10"
+    ],
+    "data": [256, 100, 100, 20, 10, 10],
+    "backgroundColor": [
+      "#4bc0c0",
+      "#ff6384",
+      "#ffce56",
+      "#36a2eb",
+      "#9966ff",
+      "#ff9f40"
+    ]
+  },
+  "findings": {
+    "labels": ["Comply", "Critical", "High", "Medium", "Low"],
+    "data": [4, 2, 3, 1, 2],
+    "backgroundColor": [
+      "#4bc0c0",  
+      "#ff5733",  
+      "#ffcc00",  
+      "#f39c12",  
+      "#2ecc71"   
+    ]
+  
+  }
+}
