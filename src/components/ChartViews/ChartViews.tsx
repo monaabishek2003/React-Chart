@@ -7,6 +7,9 @@ import {
   CategoryScale,
   LinearScale,
 } from "chart.js";
+
+import "./index.css"
+
 import { 
   AssessmentView,
   PolicyView,
