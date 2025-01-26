@@ -25,7 +25,9 @@ export const Findings = () => {
   const options = {
     responsive: true,
     plugins: {
-      legend: false,
+      legend:  {
+        display: false, 
+      },
       tooltip: {
         callbacks: {
           label: (tooltipItem: any) => {
